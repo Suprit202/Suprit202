@@ -1,13 +1,20 @@
-<div align="center">
-  <img height="150" src="https://png.pngtree.com/png-vector/20241120/ourmid/pngtree-programmer-working-at-desk-on-a-computer-png-image_14499127.png"  />
-</div>
+<img align="left" height="150" src="https://png.pngtree.com/png-vector/20231215/ourmid/pngtree-programmer-computer-3d-character-cartoon-three-dimensional-cute-profession-png-image_11362833.png"  />
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/suprit-mohanty-7785b923b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/suprit_mohanty" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://medium.com/@supritmhnt123" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/supritmhnt123" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
 </div>
 
 ###
@@ -26,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Suprit Mohanty from India<br><br>- 🔭 I’m working as developer & coder.<br>- 📚 I'm currently studying for a Bachelor of Technology in Computer Science Engineering<br>- ⚡ In my free time I like watching Netflix and live streams; Sometimes I learn the flute.</p>
+<p align="left">I'm Suprit Mohanty from India<br><br>- 🔭 I’m working as developer & coder.<br>- 📚 I'm currently studying for a Bachelor of Technology in Computer Science Engineering<br>- ⚡ In my free time I like watching Netflix and live streams; Sometimes I learn the flute.<br>- 📩  supritmhnt123@gmail.com</p>
 
 ###
 
