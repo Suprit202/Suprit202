@@ -4,10 +4,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/suprit-mohanty-7785b923b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/suprit_mohanty" target="_blank">
-    <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" height="25" alt="twitter logo"  />
+    <img src="https://icon2.cleanpng.com/20240119/rp/transparent-x-logo-cross-design-black-and-white-photograph-sim-black-and-white-cross-with-letters-x-and-1710898892931.webp" height="25" alt="twitter logo"  />
   </a>
   <a href="https://medium.com/@supritmhnt123" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
