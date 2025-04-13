@@ -7,7 +7,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/suprit_mohanty" target="_blank">
-    <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1744523061~exp=1744526661~hmac=608acf8b777e10db2c585af810a61a34332dc2c30494b628e5191e2d5fcf00ee&w=826" height="25" alt="twitter logo"  />
+    <img src="![image](https://github.com/user-attachments/assets/df42c1ff-d2c9-4272-97fc-2bdafbb6df37)
+" height="25" alt="twitter logo"  />
   </a>
   <a href="https://medium.com/@supritmhnt123" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
