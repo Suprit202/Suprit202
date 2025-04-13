@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
   <a href="https://leetcode.com/u/supritmhnt123/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/687px-LeetCode_Logo_black_with_text.svg.png" height="25" alt="hackerrank logo"  />
+    <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyh42ht1a28kbij7tginu.png" height="25" alt="hackerrank logo"  />
   </a>
 </div>
 
