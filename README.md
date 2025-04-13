@@ -12,8 +12,8 @@
   <a href="https://medium.com/@supritmhnt123" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/supritmhnt123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  <a href="https://leetcode.com/u/supritmhnt123/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ALeetCode_Logo_black_with_text.svg&psig=AOvVaw0sSOhQn9WdA3WM--JRdoOJ&ust=1744608602858000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjdptij1IwDFQAAAAAdAAAAABAE" height="25" alt="hackerrank logo"  />
   </a>
 </div>
 
