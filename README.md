@@ -50,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dmongodb&psig=AOvVaw0SHBC-_ktpDIcOxiVpnPyy&ust=1750698512807000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICVxcXChY4DFQAAAAAdAAAAABAE" height="40" alt="javascript logo"  />
 </div>
 
 ###
