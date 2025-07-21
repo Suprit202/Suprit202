@@ -86,3 +86,5 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/Suprit202/Suprit202/output/snake.svg" alt="Snake animation" />
+###
