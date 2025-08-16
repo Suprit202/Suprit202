@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Suprit Mohanty from India<br><br>- 🔭 I’m working as developer & coder.<br>- 📚 I'm currently studying for a Bachelor of Technology in Computer Science Engineering<br>- ⚡ In my free time I like watching Netflix and live streams; Sometimes I learn the flute.<br>- 📩  supritmhnt123@gmail.com<br>- 🔗<a href="https://supritportfolio.web.app/">My Portfolio</a></p>
+<p align="left">I'm Suprit Mohanty from India<br><br>- 🔭 Aspiring Full-Stack Developer passionate about crafting responsive, user-friendly web applications. <br>- 📚 I'm currently studying for a Bachelor of Technology in Computer Science Engineering<br>- ⚡ I blend creativity with clean code, building efficient and scalable solutions using React, Node.js, Express, and MongoDB.<br>- 📩  supritmhnt123@gmail.com<br>- 🔗<a href="https://supritportfolio.web.app/">My Portfolio</a></p>
 
 ###
 
