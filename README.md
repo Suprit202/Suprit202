@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/suprit-mohanty-7785b923b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/suprit_mohanty" target="_blank">
-    <img src="https://icon2.cleanpng.com/20240119/rp/transparent-x-logo-cross-design-black-and-white-photograph-sim-black-and-white-cross-with-letters-x-and-1710898892931.webp" height="25" alt="twitter logo"  />
-  </a>
   <a href="https://leetcode.com/u/supritmhnt123/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png?20190719232544" height="25" alt="hackerrank logo" />
   </a>
