@@ -1,13 +1,17 @@
+<head>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</head>
+
 <img align="left" height="150" src="https://png.pngtree.com/png-vector/20231215/ourmid/pngtree-programmer-computer-3d-character-cartoon-three-dimensional-cute-profession-png-image_11362833.png"  />
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/suprit-mohanty-7785b923b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo" style="text-decoration: none;"/>
   </a>
   <a href="https://leetcode.com/u/supritmhnt123/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png?20190719232544" height="25" alt="hackerrank logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-plain.svg" height="30" alt="leetcode logo" style="text-decoration: none;"/>
   </a>
 </div>
 
@@ -27,7 +31,21 @@
 
 ###
 
-<p align="left">I'm Suprit Mohanty from India<br><br>- 🔭 Aspiring Full-Stack Developer passionate about crafting responsive, user-friendly web applications. <br>- 📚 I'm currently studying for a Bachelor of Technology in Computer Science Engineering.<br>- ⚡ I blend creativity with clean code, building efficient and scalable solutions using React, Node.js, Express, and MongoDB.<br>- 📩  supritmhnt123@gmail.com<br>- 🔗<a href="https://supritportfolio.web.app/">My Portfolio</a></p>
+<p align="left">
+  I'm Suprit Mohanty from India
+  <br><br>
+  - 🌐Full-Stack Web Developer passionate about crafting responsive, user-friendly web applications. 
+  <br>
+  - 🖥️ I'm a working professional
+  <br>
+  - ⚡ I blend creativity with clean code, building efficient and scalable solutions using .NET and MERN ecosystem
+  <br>
+  - 📩  supritmhnt123@gmail.com
+  <br>
+  - 🔗<a href="https://supritportfolio.web.app/">My Portfolio</a> 🤩
+  <br>
+  - 🔗<a href="https://www.linkedin.com/in/suprit-mohanty-7785b923b/">My LinkedIn</a> 🤠
+</p>
 
 ###
 
