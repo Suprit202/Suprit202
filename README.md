@@ -116,6 +116,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" alt="Postman logo"/>
+  <image width="12"/>
+  <img src="https://volkanceylan.gallerycdn.vsassets.io/extensions/volkanceylan/serenemvc/3.13.5.12/1594289239659/Microsoft.VisualStudio.Services.Icons.Default" height="40" alt="Serenity logo"/>
 </div>
 
 ###
